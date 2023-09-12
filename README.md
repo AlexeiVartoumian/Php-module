@@ -12,3 +12,5 @@ Handle the state of webpage with Cookies as well as navigation. Implemented with
 
 
 Below is a gif demonstration of task 4.
+
+[!Demo of Login to webpage based on user-type](https://github.com/AlexeiVartoumian/Php-module/blob/main/Php%20Login%20to%20Webpage.gif)
